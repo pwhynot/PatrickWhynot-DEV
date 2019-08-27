@@ -84,10 +84,10 @@
     }
 
     .portrait {
-      width: 210px;
+      width: 200px;
       height: 200px;
       background: url("https://media.licdn.com/dms/image/C4E03AQGIjmVTo8Wl5Q/profile-displayphoto-shrink_200_200/0?e=1572480000&v=beta&t=UBpvvyH2XT-2SSKIAQ6_yYgg2a6O3GLydDEi_TjX3OA")
-        no-repeat;
+        no-repeat center;
       border-radius: 50%;
       border: solid 3px $secondary-color;
     }
